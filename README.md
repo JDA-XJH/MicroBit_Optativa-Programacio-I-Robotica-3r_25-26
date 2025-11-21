@@ -1,3 +1,7 @@
+## Practica 1: 
+# Podeis ignorar todo lo de abajo(Porque esta creado automatico de [https://makecode.microbit.org](https://makecode.microbit.org)
+
+
 
 > Obre aquesta pàgina a [https://jda-xjh.github.io/microbit_optativa-programacio-i-robotica-3r_25-26/](https://jda-xjh.github.io/microbit_optativa-programacio-i-robotica-3r_25-26/)
 
