@@ -1,4 +1,5 @@
 ## Practica 1: 
+### Descarga aqui: [https://github.com/JDA-XJH/MicroBit_Optativa-Programacio-I-Robotica-3r_25-26/blob/master/Practica/Practica-1.hex](https://github.com/JDA-XJH/MicroBit_Optativa-Programacio-I-Robotica-3r_25-26/blob/master/Practica/Practica-1.hex)
 # Podeis ignorar todo lo de abajo(Porque esta creado automatico de [https://makecode.microbit.org](https://makecode.microbit.org)
 
 
